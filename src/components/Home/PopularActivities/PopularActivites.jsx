@@ -19,8 +19,8 @@ const PopularActivites = () => {
           <div className="m-2">
             <img src={cicleRider} alt="" />
           </div>
-          <div className="row-span-1 col-span-2 m-2 row-start-2 row-end-3 col-start-4 col-end-6">
-            <img src={cicleRider} alt="" className="h-32" />
+          <div className="m-2 row-span-1 col-span-2 row-start-2 row-end-3 col-start-4 col-end-6 border">
+            <img src={cicleRider} alt="" className="h-full w-full" />
           </div>
         </div>
       </section>
