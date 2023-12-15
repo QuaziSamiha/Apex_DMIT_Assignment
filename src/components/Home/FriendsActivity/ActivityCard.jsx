@@ -1,5 +1,3 @@
-import { space } from "postcss/lib/list";
-
 // eslint-disable-next-line react/prop-types
 const ActivityCard = ({ activity }) => {
   console.log(activity);
